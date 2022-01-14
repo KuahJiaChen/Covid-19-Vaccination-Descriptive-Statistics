@@ -6,7 +6,7 @@ The objective of this assignment is to investigate and visualize data given usin
 ## Dataset
 * "Vaccination.csv" -  contains information about the progress of Covid-19 vaccinations around the world. (source: https://www.kaggle.com/gpreda/covid-worldvaccination-progress). All the description of the columns are on the Kaggle site.
 * “2019-GDP.csv” - contains the recorded Gross Domestic Product (GDP) of almost all countries in the world for the year 2019. (source: https://datacatalog.worldbank.org/dataset/gdp-ranking).
-* “2020-Population.csv” - contains information about country and region population from 1950 to 2020. (source: https://population.un.org/wpp/Download/Standard/CSV/
+* “2020-Population.csv” - contains information about country and region population from 1950 to 2020. (source: https://population.un.org/wpp/Download/Standard/CSV/)
 
 ## Libraries Used
 - Pandas
