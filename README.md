@@ -12,3 +12,4 @@ The objective of this assignment is to investigate and visualize data given usin
 - Pandas
 - Matplotlib
 - Numpy
+- Seaborn 
