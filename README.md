@@ -1,12 +1,14 @@
 # Covid 19 Vaccination Descriptive Statistics
 
 ## About 
-The objective of this assignment is to investigate and visualize data given using Python and several Python libraries. There are three datasets given, which are "Vaccination.csv", "2019-GDP.csv", and "2020-Population.csv". Hence, I would be using these datasets to perform data wrangling, feature engineering, and data visualization. Eventually, a data frame that contains the information of population, total vaccinations, people fully vaccinated, GDP, and GDP per capita for 11 South East Asia Countries would be produced. The outline given in the beginning part of the notebook shows the major steps of this submission. Subsequently, the data frame would be used to provide some statistical description. At last, several plots would be constructed using the data in the data frame as an assist to answer a few questions.
+The purpose of this assignment is to utilize Python and various Python libraries to investigate and visualize data. The assignment includes three datasets: "Vaccination.csv," "2019-GDP.csv," and "2020-Population.csv." These datasets will be used for data wrangling, feature engineering, and data visualization. The main objective is to create a data frame containing information on population, total vaccinations, people fully vaccinated, GDP, and GDP per capita for 11 South East Asian countries. The notebook provides an outline outlining the major steps of this project. Subsequently, the data frame will be analyzed to obtain statistical descriptions. Finally, several plots will be generated using the data frame to address specific questions.
 
 ## Dataset
-* "Vaccination.csv" -  contains information about the progress of Covid-19 vaccinations around the world. (source: https://www.kaggle.com/gpreda/covid-worldvaccination-progress). All the descriptions of the columns are on the Kaggle site.
-* “2019-GDP.csv” - contains the recorded Gross Domestic Product (GDP) of almost all countries in the world for the year 2019. (source: https://datacatalog.worldbank.org/dataset/gdp-ranking).
-* “2020-Population.csv” - contains information about country and region population from 1950 to 2020. (source: https://population.un.org/wpp/Download/Standard/CSV/)
+- [Vaccination.csv](https://www.kaggle.com/gpreda/covid-worldvaccination-progress): This file provides data on the global progress of Covid-19 vaccinations. It contains information about the vaccination efforts worldwide. You can find detailed descriptions of the columns on the Kaggle website.
+
+- [2019-GDP.csv](https://datacatalog.worldbank.org/dataset/gdp-ranking): This file contains the recorded Gross Domestic Product (GDP) of nearly all countries in the world for the year 2019. It offers insights into the economic performance of various nations.
+
+- [2020-Population.csv](https://population.un.org/wpp/Download/Standard/CSV/): This file includes information about country and regional populations from 1950 to 2020. It provides valuable data on population trends over time.
 
 ## Libraries Used
 - Pandas
